@@ -4,7 +4,7 @@ from string import Template
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
-gmail_user = "test@gmail.com"
+gmail_user = "saiarthik424@gmail.com"
 gmail_pwd = "demo"
 TO = 'test1@gmail.com'
 SUBJECT = "Testing sending using gmail"
